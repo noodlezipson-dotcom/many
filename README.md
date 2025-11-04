@@ -1,19 +1,20 @@
-# 🎈 Blank app template
+# Hong Kong Stock Recommendation System
 
-A simple Streamlit app template for you to modify!
+A beginner-friendly stock analysis tool that recommends promising stocks from the Hong Kong market.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Features
 
-### How to run it on your own machine
+- 📊 **Comprehensive Analysis**: Calculates comprehensive scores based on various indicators
+- 🎯 **TOP 5 Recommendations**: Recommends top 5 stocks with best buying opportunities
+- 📈 **Technical Indicators**: Various indicators including price trends, volume, and momentum
+- 🔍 **Easy to Understand**: Clear explanations suitable for beginners
+- 📱 **Responsive Design**: Optimized display for all devices
 
-1. Install the requirements
+## Installation & Usage
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+### Local Execution
 
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/hk-stock-recommender.git
+cd hk-stock-recommender
